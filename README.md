@@ -8,3 +8,10 @@ Local copy in data/fatal-police-shootings-data.csv
 Required packages:
 readr
 ggplot2
+dplyr
+RCurl
+
+
+![](images/weapon_by_age.png) 
+
+![](images/weapon_frequency.png) 
